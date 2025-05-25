@@ -4,10 +4,15 @@ In this Project I used Excel, SQL, and Tableau to carry out data Cleaning, data 
 
 THE QUESTIONS FOR ANALYSIS WERE:
 1.Per the dataset How many footballers were born in each decade ?
-2.What Country Has Produced Most Footballers from the range of players Born in the 70's to 2000's
+
+2.What Country Has Produced Most Footballers from the range of players Born in the 70's to 2000's ?
+
 3.Which birth time period has the Most players born in the time, playing for a country different from birth country ?
+
 4. for each time period, explain what may be a reason for birth country to be different from playing country ?
-5.Which Country has the Most Foreign Born Players ?
+
+5. Which Country has the Most Foreign Born Players ?
+
 
 Answers to the Questions:
 1. from the dataset gotten from Kaggle.com, which got the Football Players Dataset from WWW.TRANSFERMARKT.COM, there are a total of around 540 Registered footballers captured, that were Born in the 70's (1970 - 1979) playing in the first division/leagues around the world, There were a total of around 6800 Registered footballers that were born in the 80's (1980 - 1989), There are a Total of 16,508 registred Footballers that were born in the 90's (1990 - 1999), There are a total of 8,706 registered/cap footballers born in the 2000's (2000 - 2009) all of which are/were playing in the top flight of the their respective League. giving a total of 32,555 Captured footballers that have played top division football across the world with Birth years ranging from 1970 - 2009
