@@ -18,6 +18,15 @@ THE QUESTIONS FOR ANALYSIS WERE:
 5. Which Country has the Most Foreign Born Players ?
 
 
+PROCESS FOR ANALYSIS
+1. Cleaned the data by removing unnecessary description tags, as well as cells not useful for the analysis
+2. I did some research via google and chat GPT on some players history that were missing/blank in the excel file and thus got rid of blanks that can affect analysis
+3. i segmented the excel files, so each decade is in its own file, as well theres a general file of all decades put together
+4. i created Pivot Tables in each excel file to show my work and how i arrive at my conclusions
+5. i created Visualizations on Tableau to show visual representation of my owk.
+
+
+
 Answers to the Questions:
 1. from the dataset gotten from Kaggle.com, which got the Football Players Dataset from WWW.TRANSFERMARKT.COM, there are a total of around 540 Registered footballers captured, that were Born in the 70's (1970 - 1979) playing in the first division/leagues around the world, There were a total of around 6800 Registered footballers that were born in the 80's (1980 - 1989), There are a Total of 16,508 registred Footballers that were born in the 90's (1990 - 1999), There are a total of 8,706 registered/cap footballers born in the 2000's (2000 - 2009) all of which are/were playing in the top flight of the their respective League. giving a total of 32,555 Captured footballers that have played top division football across the world with Birth years ranging from 1970 - 2009
 
