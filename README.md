@@ -55,3 +55,18 @@ Amongst players born In the 2000's ,Morocco has the Most Foreign born players wi
 
 
 5. The Country with most foreign players technically is USSR, followed by Serbia, but with removal of USSR and Yugoslav component countries, the country with the most foreign born players, in the sense they were born in/ come from completely different countries and regions is MOROCCO, and the prevalence is amongst 2000's born (2000 - 2009) players.
+
+
+
+DASHBOARD
+![dashboard](https://github.com/user-attachments/assets/9705d361-03e6-472b-a968-dd8aaca912d8)
+![2000 born players chart](https://github.com/user-attachments/assets/7777f6e2-9a02-4bb0-bf07-97af8bd777f9)
+![90s born players info](https://github.com/user-attachments/assets/d651a62d-0a06-477e-95e2-e72a7bd8b137)
+![70s Data](https://github.com/user-attachments/assets/c95b03ab-e070-4900-af41-d897569376a0)
+![80s Players different birth country and playing country v2](https://github.com/user-attachments/assets/4deca9c0-eb01-47e8-8d74-b18ffe753082)
+
+
+
+
+
+
